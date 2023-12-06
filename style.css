@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(255, 228, 181);
+}
+header{
+    background-color: rgb(255, 218, 185);
+    position:relative;
+    width:100%;
+    height:70px;
+    text-align: center
+}
+.head{
+    background-color: rgb(255, 218, 185);
+    font-style: italic;
+    font-size: 200%;
+}
+.subtitle{
+    font-size: 100%;
+}
+.navigation{
+    word-spacing: 20px;
+    font-style: italic;
+    text-align: center;
+    font-size: 120%;
+}
+.active{
+    font: bold 150% serif;
+    color: rgb(0,0,0);
+}
+.passive{
+    word-spacing: normal;
+    color: rgb(0,0,0);
+}
+.pageNavigation{
+    font-style: italic;
+    text-align: left;
+    word-spacing: 20px;
+    font-size: 120%;
+    margin-bottom: 100px;
+}
+.delivery{
+    margin-top:100px;
+
+}
+ul,li
+{
+  line-height: 3.5;
+  font-size: 2vw;
+}
