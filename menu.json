@@ -4,69 +4,69 @@
     "title": "Маргарита",
     "vendor_code": "111",
     "price": 400,
-    "img": "./img/margarita.png"
+    "img": "margarita.png"
   },
   {
     "id": "2",
     "title": "Пепперони",
     "vendor_code": "222",
     "price": 500,
-    "img": "./img/pepperoni.png"
+    "img": "pepperoni.png"
   },
   {
     "id": "3",
     "title": "Неаполитанская",
     "vendor_code": "333",
     "price": 550,
-    "img": "./img/neapolitanskaya.png"
+    "img": "neapolitanskaya.png"
   },
   {
     "id": "4",
     "title": "Гавайская",
     "vendor_code": "444",
     "price": 500,
-    "img": "./img/gavayskaya.png"
+    "img": "gavayskaya.png"
   },
   {
     "id": "5",
     "title": "Четыре сезона",
     "vendor_code": "555",
     "price": 600,
-    "img": "./img/four_season.png"
+    "img": "four_season.png"
   },
   {
     "id": "6",
     "title": "Четыре сыра",
     "vendor_code": "666",
     "price": 550,
-    "img": "./img/four_chesee.png"
+    "img": "four_chesee.png"
   },
   {
     "id": "7",
     "title": "Диабло",
     "vendor_code": "7",
     "price": 600,
-    "img": "./img/diablo.png"
+    "img": "diablo.png"
   },
   {
     "id": "8",
     "title": "Баварская",
     "vendor_code": "888",
     "price": 400,
-    "img": "./img/bavarskaya.png"
+    "img": "bavarskaya.png"
   },
   {
     "id": "9",
     "title": "Вегетерианская",
     "vendor_code": "999",
     "price": 400,
-    "img": "./img/vegeterian.png"
+    "img": "vegeterian.png"
   },
   {
     "id": "10",
     "title": "Ветчина и грибы",
     "vendor_code": "000",
     "price": 450,
-    "img": "./img/ham_and_mushrooms.png"
+    "img": "ham_and_mushrooms.png"
   }
 ]
